@@ -13,27 +13,27 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 关于我
 
 <div align="center">
   <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 </div>
 
-- 🔭 &nbsp; I'm currently working on **something cool**
-- 🌱 &nbsp; I'm currently learning **everything** 🤣
-- 👯 &nbsp; I'm looking to collaborate on **open source projects**
-- 🤔 &nbsp; I'm looking for help with **nothing, I'm invincible** 💪
-- 💬 &nbsp; Ask me about **anything, I'm happy to help**
-- 📫 &nbsp; How to reach me: **just send a message**
-- ⚡ &nbsp; Fun fact: **I code so fast, my keyboard smokes** 🔥
+- 🔭 &nbsp; 目前正在搞 **一些很酷的东西**
+- 🌱 &nbsp; 正在学习 **一切** 🤣
+- 👯 &nbsp; 希望能一起搞 **开源项目**
+- 🤔 &nbsp; 需要帮助？不存在的，我无敌了 💪
+- 💬 &nbsp; 随便问，**知无不言**
+- 📫 &nbsp; 怎么联系我：**发消息就行**
+- ⚡ &nbsp; 有趣的事实：**我写代码快到键盘冒烟** 🔥
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
-| **Languages** | **Frameworks** | **Tools & Others** |
+| **编程语言** | **框架** | **工具 & 其他** |
 | :---: | :---: | :---: |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
@@ -45,28 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HuangSixiang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuangSixiang&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangSixiang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuangSixiang&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Contribution Graph
+## 🔥 贡献活跃度
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuangSixiang&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
@@ -74,33 +53,40 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍 贪吃蛇吃贡献格子
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 今日编程语录
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=代码如诗，每一行都是灵魂的吟唱&author=程序员的自我修养" alt="Random Quote" />
 </div>
 
 ---
 
-## 🎮 What I'm Listening To
+## 🎮 正在听什么
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=placeholder&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l65h65gqf5nqqqhvkwxqoyq3eq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+  <p><sub>👆 点击图片查看如何配置你自己的 Spotify 正在播放</sub></p>
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Connect with Me
+### 🤝 联系我
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuangSixiang)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -111,7 +97,7 @@
 
 ### ⭐ From HuangSixiang with ❤️
 
-*"First, solve the problem. Then, write the code."*
+*"先解决问题，再写代码。"*
 
 </div>
 
