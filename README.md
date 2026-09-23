@@ -20,7 +20,16 @@
 
 <br>
 
-## 🛠️ 技术栈
+## 🛠️ 技术栈 & 🎵 正在听什么
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
 
 | **编程语言** | **框架** | **工具 & 其他** |
 | :---: | :---: | :---: |
@@ -30,6 +39,10 @@
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
 
+    </td>
+  </tr>
+</table>
+
 ## 🐍 贪吃蛇
 
 <picture>
@@ -37,12 +50,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## 🎮 正在听什么
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
-</a>
 
 ## 💡 今日编程语录
 
