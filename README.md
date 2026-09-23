@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuangSixiang&theme=onedark" alt="GitHub Trophies" />
-</p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=HuangSixiang&color=blueviolet&style=flat-square" alt="Visitor count" />
 </p>
