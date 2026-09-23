@@ -20,9 +20,9 @@
 
 <br>
 
-## 🛠️ 技术栈 & 🎵 正在听什么
+## 🎵 正在听什么 & 🛠️ 技术栈
 
-<img align="right" width="35%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+<img align="left" width="35%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
 
 | **编程语言** | **框架** | **工具 & 其他** |
 | :---: | :---: | :---: |
@@ -31,7 +31,7 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
-<br clear="right" />
+<br clear="left" />
 
 ## 🐍 贪吃蛇
 
