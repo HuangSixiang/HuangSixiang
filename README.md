@@ -24,12 +24,12 @@
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="35%" align="center" valign="middle">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
 
 | **编程语言** | **框架** | **工具 & 其他** |
 | :---: | :---: | :---: |
