@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 关于我
 
-<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+<img align="right" width="30%" style="margin-top: 10px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
 - 🔭 目前正在搞 **一些很酷的东西**
 - 🌱 正在学习 **一切** 🤣
@@ -18,11 +18,11 @@
 - 📫 怎么联系我：**发消息就行**
 - ⚡ 有趣的事实：**我写代码快到键盘冒烟** 🔥
 
-<br>
+<br clear="right">
 
 ## 🎵 正在听什么 & 🛠️ 技术栈
 
-<img align="left" width="35%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+<img align="left" width="280" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
 
 | **编程语言** | **框架** | **工具 & 其他** |
 | :---: | :---: | :---: |
