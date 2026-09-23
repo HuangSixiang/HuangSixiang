@@ -76,10 +76,9 @@
 ## 🎮 正在听什么
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l65h65gqf5nqqqhvkwxqoyq3eq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315h77zejshe62s7wqln7wgptyru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
-  <p><sub>👆 点击图片查看如何配置你自己的 Spotify 正在播放</sub></p>
 </div>
 
 ---
