@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 关于我
 
-<img align="right" width="30%" style="margin-top: 10px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+<img align="right" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
 - 🔭 目前正在搞 **一些很酷的东西**
 - 🌱 正在学习 **一切** 🤣
@@ -17,7 +17,6 @@
 - 💬 随便问，**知无不言**
 - 📫 怎么联系我：**发消息就行**
 - ⚡ 有趣的事实：**我写代码快到键盘冒烟** 🔥
-
 <br clear="right">
 
 ## 🎵 正在听什么 & 🛠️ 技术栈
@@ -31,7 +30,7 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
-<br clear="left" />
+<br clear="left">
 
 ## 🐍 贪吃蛇
 
@@ -40,10 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/HuangSixiang/HuangSixiang/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## 💡 今日编程语录
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=代码如诗，每一行都是灵魂的吟唱&author=程序员的自我修养" alt="Random Quote" />
 
 ---
 
