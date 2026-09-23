@@ -1,5 +1,3 @@
-<img width="854" height="150" alt="image" src="https://github.com/user-attachments/assets/1a48a87d-8e39-414e-9e3f-97a1eec16fed" />
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hello+World+%F0%9F%91%BF;I'm+HuangSixiang+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Code+is+Poetry+%F0%9F%96%8B%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
